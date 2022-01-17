@@ -6,9 +6,9 @@
   <div>
     <a href="https://github.com/calendula1111"></a>
     <!--Linguagens mais usadas -->
-    <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=calendula1111&hide=html&layout=compact&theme=dark)](https://github.com/calendula1111/" />
+    <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=calendula1111&hide=html&layout=compact&theme=dark)](https://github.com/calendula1111/" />
     <!--Dados do perfil -->
-    <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=calendula1111&theme=dark)](https://github.com/calendula1111/" />
+    <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=calendula1111&theme=dark)](https://github.com/calendula1111/" />
   </div>
   
   <br><br>
